@@ -1,0 +1,21 @@
+{
+  "name": "okf-knowledge-base",
+  "description": "Open Knowledge Format (OKF) skill for Claude Code: store, update, and search team/personal knowledge as YAML+Markdown bundles under ~/.claude/kb/.",
+  "version": "0.1.0",
+  "author": {
+    "name": "zkfmapf123",
+    "email": "zkfmapf999@gmail.com"
+  },
+  "homepage": "https://github.com/zkfmapf123/okf",
+  "repository": "https://github.com/zkfmapf123/okf",
+  "license": "MIT",
+  "keywords": [
+    "okf",
+    "knowledge-base",
+    "kb",
+    "skill",
+    "markdown",
+    "yaml",
+    "documentation"
+  ]
+}
